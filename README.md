@@ -4,7 +4,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=falikymz&&style=plastics&&color=yellow" align="right"/> </p>
 
-<div id="header" align="center">
+<div id="header" align="left">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="/> 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
