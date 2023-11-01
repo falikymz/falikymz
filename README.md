@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=falikymz&&style=plastics&&color=yellow" align="right"/> </p>
 
 <div id="header" align="left">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="/> 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="left"/> 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines="Welcome+Furkan+Ali+Kaymaz+Git-Hub";)
