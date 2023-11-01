@@ -1,9 +1,10 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2357CA10&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 <br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
+ 
 <img src="https://komarev.com/ghpvc/?username=falikymz&&style=plastics&&color=yellow" align="right"/> </p>
 
-<div id="header" align="left">
+<div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="/> 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
@@ -64,7 +65,6 @@ jobs:
 -->
 
 
-- Mario
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
